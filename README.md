@@ -4,7 +4,7 @@ Ovdje će se nalazit HTML, CSS i JS (mozda) !
 
 Link: https://pavlovicantonio.github.io
 ---
-Skills
+Skills:
 HTML: ⭐⭐⭐⭐⭐
 CSS: ⭐⭐⭐
 JS: ⭐
